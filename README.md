@@ -1,4 +1,6 @@
 coursera-getting-and-cleaning-data
 ==================================
 
-https://class.coursera.org/getdata-003
+## asd
+* list 1
+* list 2
