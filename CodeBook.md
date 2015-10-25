@@ -268,6 +268,6 @@ mean: Mean value
 
 std: Standard deviation
 
-## Transformation
+### Transformation
 
 All the values are means, aggregated over 30 subjects and 6 activities, hence the resulting dataset is 180 rows by 68 columns.
