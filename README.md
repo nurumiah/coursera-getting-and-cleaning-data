@@ -50,3 +50,4 @@ It follows the goals step by step.
   
 * Final step:
   * Write the new tidy set into a text file called tidy2.txt, formatted similarly to the original files.
+  * 
